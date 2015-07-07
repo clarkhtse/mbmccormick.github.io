@@ -5,7 +5,7 @@ language: en-us
 author: Matt McCormick
 email: matt@mbmccormick.com
 
-permalink: articles/:year/:month/:title
+permalink: :year/:month/:title
 
 gems:
   - jekyll-sitemap
