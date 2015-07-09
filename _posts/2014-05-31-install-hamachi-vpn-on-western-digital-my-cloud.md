@@ -40,4 +40,13 @@ Next, run the modified install script to install Hamachi:
 
 {% gist mbmccormick/21b71e25f6bf2f48c6fc %}
 
+# hddj
+
+nxndn
+
+nxnxnsb
+
+hhhggfd
+```ruby```
+
 Hamachi should now be installed and you can bring it online, join networks, etc. using the `hamachi` command. The Hamachi daemon should be configured start and go online whenever the WD My Cloud reboots. You should now be able to access your WD My Cloud from any of the machines on your Hamachi networks!
