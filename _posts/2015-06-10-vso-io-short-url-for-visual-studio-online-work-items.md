@@ -18,4 +18,4 @@ categories: []
 
 <code>https://<b>&lt;account&gt;</b>.visualstudio.com/DefaultCollection/_workitems/edit/<b>&lt;work item&gt;</b></code>
 
-<p>The website is running as an ASP.NET MVC Web Application on Windows Azure Websites. You can check out the <a href="http://github.com/mbmccormick/vso.io">source code</a> on GitHub. It was super easy to setup this application, complete with the <a href="http://azure.microsoft.com/en-us/services/application-insights/">Application Insights</a> telemetry package, and publish it to Windows Azure right from Visual Studio. I hope you find it useful!</p>
+<p>The website is running as an ASP.NET MVC Web Application on Windows Azure Websites. You can check out the <a href="http://github.com/mbmccormick/vso.io">source code</a> on GitHub. It was super easy to setup this application, complete with the <a href="http://azure.microsoft.com/en-us/services/application-insights/">Application Insights</a> telemetry package, and publish it to Windows Azure right from Visual Studio. I hope you find it useful!</p
