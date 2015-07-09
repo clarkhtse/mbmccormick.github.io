@@ -7,6 +7,9 @@ categories: []
 ---
 <p>I built a small website that makes it easy to reference <a href="https://www.visualstudio.com/products/what-is-visual-studio-online-vs">Visual Studio Online</a> work items: <a href="http://vso.io">http://vso.io</a>.</p>
 
+## h2 ##
+
+
 <p>The default URL that Visual Studio Online provides for linking to work items was too long, so I made a smaller one that will redirect to the original URL. This makes it easy to link to a work item in an email or quickly navigate to a work item if you know the ID. For example, requests in the format:</p>
 
 <code>http://<b>&lt;account&gt;</b>.vso.io/<b>&lt;work item&gt;</b></code>
